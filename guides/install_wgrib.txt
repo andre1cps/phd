@@ -1,0 +1,71 @@
+Download source code from 
+http://www.cpc.ncep.noaa.gov/products/wesley/wgrib.html
+select "wgrib.tar"
+
+----------------------------------------------------------
+For Linux and OS X when you do NOT have superuser access:
+create a  ~/local subdirectory under your home directory 
+
+> mkdir ~/local
+This is a good place to put special utilities/packages only used by you.
+
+Then make a subdirectory for each package, e.g.
+> mkdir ~/local/wgrib
+
+Put the tar file there:
+> mv wgrib.tar ~/local/wgrib
+
+> cd ~/local/wgrib
+> tar xvf wgrib.tar
+
+wgrib is written in C, so make sure you have a C compiler
+> which cc
+You should get something similar to this:
+/usr/bin/cc
+
+cc is included in Linux systems.
+For OS X, you may need to install Xcode to obtain cc.
+
+Then let the makefile do all the work for you--no C experience necessary. 
+> make
+
+If you are successful, wgrib*, an executable, will be created:
+~/local/wgrib/wgrib*
+
+I like to put all my local executables in one place in my search path.
+> mkdir ~/local/bin
+> ln -s ~/local/wgrib/wgrib ~/local/bin
+
+Put this line in your .tcshrc file (or equivalent in other shells):
+set path = ($path $HOME/bin $HOME/local/bin .)
+
+----------------------------------------------------------
+For OS X Mavericks or Linux with SuperUser privileges:
+
+su to login as an administrator on your machine
+> su
+
+Login and then create a directory to hold wgrib.
+> sudo mkdir /usr/local/wgrib
+> sudo cp wgrib.tar 
+	FROM your Download area 
+	TO /usr/local/wgrib
+> sudo tar xvf wgrib.tar
+> sudo make
+
+If you are successful, wgrib*, an executable, will be created:
+/usr/local/wgrib/wgrib*
+
+Create a soft link to a directory with other local executables, e.g.
+> sudo ln -s /usr/local/wgrib/wgrib /usr/local/bin
+
+Now any user with /usr/local/bin in their path can use wgrib.
+
+----------------------------------------------------------
+Test in your work directory.
+
+> which wgrib
+should return the location of wgrib
+
+> wgrib grib_file
+should return an inventory of grib_file

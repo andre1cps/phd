@@ -1,0 +1,888 @@
+File: RDAC0001.dbf 
+Removed lines: 0.025 % 
+Final shape: (4012, 12) 
+
+File: RDAC0002.dbf 
+Removed lines: 0.105 % 
+Final shape: (3820, 12) 
+
+File: RDAC0003.dbf 
+Removed lines: 0.253 % 
+Final shape: (3937, 12) 
+
+File: RDAC0004.dbf 
+Removed lines: 0.238 % 
+Final shape: (3766, 12) 
+
+File: RDAC0005.dbf 
+Removed lines: 0.146 % 
+Final shape: (4110, 12) 
+
+File: RDAC0006.dbf 
+Removed lines: 0.107 % 
+Final shape: (3719, 12) 
+
+File: RDAC0007.dbf 
+Removed lines: 0.485 % 
+Final shape: (3487, 12) 
+
+File: RDAC0008.dbf 
+Removed lines: 0.176 % 
+Final shape: (3980, 12) 
+
+File: RDAC0009.dbf 
+Removed lines: 0.377 % 
+Final shape: (3173, 12) 
+
+File: RDAC0010.dbf 
+Removed lines: 0.157 % 
+Final shape: (3815, 12) 
+
+File: RDAC0011.dbf 
+Removed lines: 0.172 % 
+Final shape: (3490, 12) 
+
+File: RDAC0012.dbf 
+Removed lines: 0.000 % 
+Final shape: (3535, 12) 
+
+File: RDAC0101.dbf 
+Removed lines: 0.382 % 
+Final shape: (3647, 12) 
+
+File: RDAC0102.dbf 
+Removed lines: 0.033 % 
+Final shape: (3054, 12) 
+
+File: RDAC0103.dbf 
+Removed lines: 0.000 % 
+Final shape: (4082, 12) 
+
+File: RDAC0104.dbf 
+Removed lines: 0.106 % 
+Final shape: (3756, 12) 
+
+File: RDAC0105.dbf 
+Removed lines: 0.185 % 
+Final shape: (3774, 12) 
+
+File: RDAC0106.dbf 
+Removed lines: 0.052 % 
+Final shape: (3825, 12) 
+
+File: RDAC0107.dbf 
+Removed lines: 0.083 % 
+Final shape: (3619, 12) 
+
+File: RDAC0108.dbf 
+Removed lines: 0.392 % 
+Final shape: (3813, 12) 
+
+File: RDAC0109.dbf 
+Removed lines: 0.124 % 
+Final shape: (4027, 12) 
+
+File: RDAC0110.dbf 
+Removed lines: 0.000 % 
+Final shape: (3987, 12) 
+
+File: RDAC0111.dbf 
+Removed lines: 0.226 % 
+Final shape: (3531, 12) 
+
+File: RDAC0112.dbf 
+Removed lines: 0.135 % 
+Final shape: (2958, 12) 
+
+File: RDAC0201.dbf 
+Removed lines: 0.059 % 
+Final shape: (3406, 12) 
+
+File: RDAC0202.dbf 
+Removed lines: 0.063 % 
+Final shape: (3186, 12) 
+
+File: RDAC0203.dbf 
+Removed lines: 0.000 % 
+Final shape: (3233, 12) 
+
+File: RDAC0204.dbf 
+Removed lines: 0.300 % 
+Final shape: (2993, 12) 
+
+File: RDAC0205.dbf 
+Removed lines: 0.028 % 
+Final shape: (3592, 12) 
+
+File: RDAC0206.dbf 
+Removed lines: 0.000 % 
+Final shape: (3363, 12) 
+
+File: RDAC0207.dbf 
+Removed lines: 0.097 % 
+Final shape: (4102, 12) 
+
+File: RDAC0208.dbf 
+Removed lines: 0.320 % 
+Final shape: (3733, 12) 
+
+File: RDAC0209.dbf 
+Removed lines: 0.000 % 
+Final shape: (3449, 12) 
+
+File: RDAC0210.dbf 
+Removed lines: 0.122 % 
+Final shape: (4084, 12) 
+
+File: RDAC0211.dbf 
+Removed lines: 0.000 % 
+Final shape: (3664, 12) 
+
+File: RDAC0212.dbf 
+Removed lines: 0.057 % 
+Final shape: (3512, 12) 
+
+File: RDAC0301.dbf 
+Removed lines: 0.000 % 
+Final shape: (3463, 12) 
+
+File: RDAC0302.dbf 
+Removed lines: 0.087 % 
+Final shape: (3427, 12) 
+
+File: RDAC0303.dbf 
+Removed lines: 0.152 % 
+Final shape: (3930, 12) 
+
+File: RDAC0304.dbf 
+Removed lines: 0.000 % 
+Final shape: (3291, 12) 
+
+File: RDAC0305.dbf 
+Removed lines: 0.509 % 
+Final shape: (3521, 12) 
+
+File: RDAC0306.dbf 
+Removed lines: 0.493 % 
+Final shape: (3630, 12) 
+
+File: RDAC0307.dbf 
+Removed lines: 0.000 % 
+Final shape: (4605, 12) 
+
+File: RDAC0308.dbf 
+Removed lines: 0.265 % 
+Final shape: (4136, 12) 
+
+File: RDAC0309.dbf 
+Removed lines: 0.153 % 
+Final shape: (3911, 12) 
+
+File: RDAC0310.dbf 
+Removed lines: 0.000 % 
+Final shape: (3695, 12) 
+
+File: RDAC0311.dbf 
+Removed lines: 0.000 % 
+Final shape: (3654, 12) 
+
+File: RDAC0312.dbf 
+Removed lines: 0.000 % 
+Final shape: (3160, 12) 
+
+File: RDAC0401.dbf 
+Removed lines: 0.389 % 
+Final shape: (3589, 12) 
+
+File: RDAC0402.dbf 
+Removed lines: 0.278 % 
+Final shape: (3952, 12) 
+
+File: RDAC0403.dbf 
+Removed lines: 0.056 % 
+Final shape: (3599, 12) 
+
+File: RDAC0404.dbf 
+Removed lines: 0.250 % 
+Final shape: (3590, 12) 
+
+File: RDAC0405.dbf 
+Removed lines: 0.053 % 
+Final shape: (3788, 12) 
+
+File: RDAC0406.dbf 
+Removed lines: 0.268 % 
+Final shape: (3350, 12) 
+
+File: RDAC0407.dbf 
+Removed lines: 0.261 % 
+Final shape: (3440, 12) 
+
+File: RDAC0408.dbf 
+Removed lines: 0.097 % 
+Final shape: (4110, 12) 
+
+File: RDAC0409.dbf 
+Removed lines: 0.146 % 
+Final shape: (4105, 12) 
+
+File: RDAC0410.dbf 
+Removed lines: 0.493 % 
+Final shape: (3836, 12) 
+
+File: RDAC0411.dbf 
+Removed lines: 0.048 % 
+Final shape: (4164, 12) 
+
+File: RDAC0412.dbf 
+Removed lines: 0.050 % 
+Final shape: (4035, 12) 
+
+File: RDAC0501.dbf 
+Removed lines: 0.276 % 
+Final shape: (4337, 12) 
+
+File: RDAC0502.dbf 
+Removed lines: 0.425 % 
+Final shape: (3515, 12) 
+
+File: RDAC0503.dbf 
+Removed lines: 0.267 % 
+Final shape: (4481, 12) 
+
+File: RDAC0504.dbf 
+Removed lines: 0.259 % 
+Final shape: (3856, 12) 
+
+File: RDAC0505.dbf 
+Removed lines: 0.693 % 
+Final shape: (4154, 12) 
+
+File: RDAC0506.dbf 
+Removed lines: 0.343 % 
+Final shape: (3197, 12) 
+
+File: RDAC0507.dbf 
+Removed lines: 0.098 % 
+Final shape: (4064, 12) 
+
+File: RDAC0508.dbf 
+Removed lines: 0.000 % 
+Final shape: (4473, 12) 
+
+File: RDAC0509.dbf 
+Removed lines: 0.157 % 
+Final shape: (4453, 12) 
+
+File: RDAC0510.dbf 
+Removed lines: 0.143 % 
+Final shape: (5589, 12) 
+
+File: RDAC0511.dbf 
+Removed lines: 0.137 % 
+Final shape: (4387, 12) 
+
+File: RDAC0512.dbf 
+Removed lines: 0.000 % 
+Final shape: (3694, 12) 
+
+File: RDAC0601.dbf 
+Removed lines: 0.662 % 
+Final shape: (4505, 12) 
+
+File: RDAC0602.dbf 
+Removed lines: 0.486 % 
+Final shape: (4303, 12) 
+
+File: RDAC0603.dbf 
+Removed lines: 0.456 % 
+Final shape: (4367, 12) 
+
+File: RDAC0604.dbf 
+Removed lines: 0.000 % 
+Final shape: (4510, 12) 
+
+File: RDAC0605.dbf 
+Removed lines: 0.322 % 
+Final shape: (4638, 12) 
+
+File: RDAC0606.dbf 
+Removed lines: 0.025 % 
+Final shape: (3980, 12) 
+
+File: RDAC0607.dbf 
+Removed lines: 0.000 % 
+Final shape: (4115, 12) 
+
+File: RDAC0608.dbf 
+Removed lines: 0.126 % 
+Final shape: (4752, 12) 
+
+File: RDAC0609.dbf 
+Removed lines: 0.000 % 
+Final shape: (4257, 12) 
+
+File: RDAC0610.dbf 
+Removed lines: 0.000 % 
+Final shape: (4379, 12) 
+
+File: RDAC0611.dbf 
+Removed lines: 0.024 % 
+Final shape: (4212, 12) 
+
+File: RDAC0612.dbf 
+Removed lines: 0.000 % 
+Final shape: (3981, 12) 
+
+File: RDAC0701.dbf 
+Removed lines: 0.000 % 
+Final shape: (3734, 12) 
+
+File: RDAC0702.dbf 
+Removed lines: 0.000 % 
+Final shape: (4074, 12) 
+
+File: RDAC0703.dbf 
+Removed lines: 0.000 % 
+Final shape: (3735, 12) 
+
+File: RDAC0704.dbf 
+Removed lines: 0.000 % 
+Final shape: (3801, 12) 
+
+File: RDAC0705.dbf 
+Removed lines: 0.000 % 
+Final shape: (3983, 12) 
+
+File: RDAC0706.dbf 
+Removed lines: 0.000 % 
+Final shape: (3772, 12) 
+
+File: RDAC0707.dbf 
+Removed lines: 0.000 % 
+Final shape: (3538, 12) 
+
+File: RDAC0708.dbf 
+Removed lines: 0.000 % 
+Final shape: (3883, 12) 
+
+File: RDAC0709.dbf 
+Removed lines: 0.000 % 
+Final shape: (4386, 12) 
+
+File: RDAC0710.dbf 
+Removed lines: 0.000 % 
+Final shape: (4347, 12) 
+
+File: RDAC0711.dbf 
+Removed lines: 0.000 % 
+Final shape: (4232, 12) 
+
+File: RDAC0712.dbf 
+Removed lines: 0.000 % 
+Final shape: (3835, 12) 
+
+File: RDAC0801.dbf 
+Removed lines: 0.000 % 
+Final shape: (2087, 12) 
+
+File: RDAC0802.dbf 
+Removed lines: 0.000 % 
+Final shape: (3071, 12) 
+
+File: RDAC0803.dbf 
+Removed lines: 0.000 % 
+Final shape: (3783, 12) 
+
+File: RDAC0804.dbf 
+Removed lines: 0.000 % 
+Final shape: (3737, 12) 
+
+File: RDAC0805.dbf 
+Removed lines: 0.000 % 
+Final shape: (3609, 12) 
+
+File: RDAC0806.dbf 
+Removed lines: 0.000 % 
+Final shape: (4026, 12) 
+
+File: RDAC0807.dbf 
+Removed lines: 0.000 % 
+Final shape: (4880, 12) 
+
+File: RDAC0808.dbf 
+Removed lines: 0.000 % 
+Final shape: (4250, 12) 
+
+File: RDAC0809.dbf 
+Removed lines: 0.000 % 
+Final shape: (4552, 12) 
+
+File: RDAC0810.dbf 
+Removed lines: 0.000 % 
+Final shape: (4128, 12) 
+
+File: RDAC0811.dbf 
+Removed lines: 0.000 % 
+Final shape: (3836, 12) 
+
+File: RDAC0812.dbf 
+Removed lines: 0.000 % 
+Final shape: (4128, 12) 
+
+File: RDAC0901.dbf 
+Removed lines: 0.000 % 
+Final shape: (4430, 12) 
+
+File: RDAC0902.dbf 
+Removed lines: 0.000 % 
+Final shape: (4240, 12) 
+
+File: RDAC0903.dbf 
+Removed lines: 0.000 % 
+Final shape: (4162, 12) 
+
+File: RDAC0904.dbf 
+Removed lines: 0.061 % 
+Final shape: (4894, 12) 
+
+File: RDAC0905.dbf 
+Removed lines: 0.000 % 
+Final shape: (4647, 12) 
+
+File: RDAC0906.dbf 
+Removed lines: 0.000 % 
+Final shape: (4291, 12) 
+
+File: RDAC0907.dbf 
+Removed lines: 0.000 % 
+Final shape: (4582, 12) 
+
+File: RDAC0908.dbf 
+Removed lines: 0.000 % 
+Final shape: (4379, 12) 
+
+File: RDAC0910.dbf 
+Removed lines: 0.000 % 
+Final shape: (4689, 12) 
+
+File: RDAC0911.dbf 
+Removed lines: 0.000 % 
+Final shape: (3959, 12) 
+
+File: RDAC0912.dbf 
+Removed lines: 0.000 % 
+Final shape: (4327, 12) 
+
+File: RDAC1001.dbf 
+Removed lines: 0.000 % 
+Final shape: (4412, 12) 
+
+File: RDAC1002.dbf 
+Removed lines: 0.000 % 
+Final shape: (3665, 12) 
+
+File: RDAC1003.dbf 
+Removed lines: 0.000 % 
+Final shape: (4203, 12) 
+
+File: RDAC1004.dbf 
+Removed lines: 0.000 % 
+Final shape: (4735, 12) 
+
+File: RDAC1005.dbf 
+Removed lines: 0.000 % 
+Final shape: (4505, 12) 
+
+File: RDAC1006.dbf 
+Removed lines: 0.000 % 
+Final shape: (4143, 12) 
+
+File: RDAC1007.dbf 
+Removed lines: 0.000 % 
+Final shape: (3891, 12) 
+
+File: RDAC1008.dbf 
+Removed lines: 0.000 % 
+Final shape: (3906, 12) 
+
+File: RDAC1009.dbf 
+Removed lines: 0.000 % 
+Final shape: (4051, 12) 
+
+File: RDAC1010.dbf 
+Removed lines: 0.000 % 
+Final shape: (3778, 12) 
+
+File: RDAC1011.dbf 
+Removed lines: 0.000 % 
+Final shape: (4343, 12) 
+
+File: RDAC1012.dbf 
+Removed lines: 0.000 % 
+Final shape: (4055, 12) 
+
+File: RDAC1101.dbf 
+Removed lines: 0.000 % 
+Final shape: (4712, 12) 
+
+File: RDAC1102.dbf 
+Removed lines: 0.000 % 
+Final shape: (4235, 12) 
+
+File: RDAC1103.dbf 
+Removed lines: 0.000 % 
+Final shape: (4364, 12) 
+
+File: RDAC1104.dbf 
+Removed lines: 0.000 % 
+Final shape: (4412, 12) 
+
+File: RDAC1105.dbf 
+Removed lines: 0.000 % 
+Final shape: (4287, 12) 
+
+File: RDAC1106.dbf 
+Removed lines: 0.000 % 
+Final shape: (4567, 12) 
+
+File: RDAC1107.dbf 
+Removed lines: 0.248 % 
+Final shape: (4427, 12) 
+
+File: RDAC1108.dbf 
+Removed lines: 0.099 % 
+Final shape: (4027, 12) 
+
+File: RDAC1109.dbf 
+Removed lines: 0.142 % 
+Final shape: (4228, 12) 
+
+File: RDAC1110.dbf 
+Removed lines: 0.072 % 
+Final shape: (4147, 12) 
+
+File: RDAC1111.dbf 
+Removed lines: 0.410 % 
+Final shape: (4610, 12) 
+
+File: RDAC1112.dbf 
+Removed lines: 0.190 % 
+Final shape: (4202, 12) 
+
+File: RDAC1201.dbf 
+Removed lines: 0.887 % 
+Final shape: (3910, 12) 
+
+File: RDAC1202.dbf 
+Removed lines: 0.332 % 
+Final shape: (3299, 12) 
+
+File: RDAC1203.dbf 
+Removed lines: 0.178 % 
+Final shape: (4480, 12) 
+
+File: RDAC1204.dbf 
+Removed lines: 0.879 % 
+Final shape: (4397, 12) 
+
+File: RDAC1205.dbf 
+Removed lines: 0.489 % 
+Final shape: (4479, 12) 
+
+File: RDAC1206.dbf 
+Removed lines: 0.518 % 
+Final shape: (4612, 12) 
+
+File: RDAC1207.dbf 
+Removed lines: 0.329 % 
+Final shape: (4239, 12) 
+
+File: RDAC1208.dbf 
+Removed lines: 0.000 % 
+Final shape: (4685, 12) 
+
+File: RDAC1209.dbf 
+Removed lines: 0.526 % 
+Final shape: (3780, 12) 
+
+File: RDAC1210.dbf 
+Removed lines: 0.503 % 
+Final shape: (4554, 12) 
+
+File: RDAC1211.dbf 
+Removed lines: 0.349 % 
+Final shape: (4562, 12) 
+
+File: RDAC1212.dbf 
+Removed lines: 0.346 % 
+Final shape: (4030, 12) 
+
+File: RDAC1301.dbf 
+Removed lines: 0.426 % 
+Final shape: (4209, 12) 
+
+File: RDAC1302.dbf 
+Removed lines: 0.701 % 
+Final shape: (4533, 12) 
+
+File: RDAC1303.dbf 
+Removed lines: 0.462 % 
+Final shape: (4522, 12) 
+
+File: RDAC1304.dbf 
+Removed lines: 0.478 % 
+Final shape: (4793, 12) 
+
+File: RDAC1305.dbf 
+Removed lines: 0.432 % 
+Final shape: (4151, 12) 
+
+File: RDAC1306.dbf 
+Removed lines: 0.358 % 
+Final shape: (4179, 12) 
+
+File: RDAC1307.dbf 
+Removed lines: 0.477 % 
+Final shape: (3963, 12) 
+
+File: RDAC1308.dbf 
+Removed lines: 0.367 % 
+Final shape: (4067, 12) 
+
+File: RDAC1309.dbf 
+Removed lines: 0.334 % 
+Final shape: (4183, 12) 
+
+File: RDAC1310.dbf 
+Removed lines: 0.390 % 
+Final shape: (4341, 12) 
+
+File: RDAC1311.dbf 
+Removed lines: 0.454 % 
+Final shape: (4167, 12) 
+
+File: RDAC1312.dbf 
+Removed lines: 0.272 % 
+Final shape: (4405, 12) 
+
+File: RDAC1401.dbf 
+Removed lines: 0.383 % 
+Final shape: (5198, 12) 
+
+File: RDAC1402.dbf 
+Removed lines: 0.344 % 
+Final shape: (4340, 12) 
+
+File: RDAC1403.dbf 
+Removed lines: 0.278 % 
+Final shape: (4301, 12) 
+
+File: RDAC1404.dbf 
+Removed lines: 0.377 % 
+Final shape: (4228, 12) 
+
+File: RDAC1405.dbf 
+Removed lines: 0.259 % 
+Final shape: (4623, 12) 
+
+File: RDAC1406.dbf 
+Removed lines: 0.277 % 
+Final shape: (4320, 12) 
+
+File: RDAC1407.dbf 
+Removed lines: 0.220 % 
+Final shape: (4543, 12) 
+
+File: RDAC1408.dbf 
+Removed lines: 0.094 % 
+Final shape: (4248, 12) 
+
+File: RDAC1409.dbf 
+Removed lines: 0.457 % 
+Final shape: (4358, 12) 
+
+File: RDAC1410.dbf 
+Removed lines: 0.549 % 
+Final shape: (4526, 12) 
+
+File: RDAC1411.dbf 
+Removed lines: 0.202 % 
+Final shape: (4454, 12) 
+
+File: RDAC1412.dbf 
+Removed lines: 0.277 % 
+Final shape: (3594, 12) 
+
+File: RDAC1501.dbf 
+Removed lines: 0.259 % 
+Final shape: (4233, 12) 
+
+File: RDAC1502.dbf 
+Removed lines: 0.403 % 
+Final shape: (3959, 12) 
+
+File: RDAC1503.dbf 
+Removed lines: 0.000 % 
+Final shape: (4480, 12) 
+
+File: RDAC1504.dbf 
+Removed lines: 0.102 % 
+Final shape: (3905, 12) 
+
+File: RDAC1505.dbf 
+Removed lines: 0.150 % 
+Final shape: (3992, 12) 
+
+File: RDAC1506.dbf 
+Removed lines: 0.000 % 
+Final shape: (4021, 12) 
+
+File: RDAC1507.dbf 
+Removed lines: 0.357 % 
+Final shape: (3904, 12) 
+
+File: RDAC1508.dbf 
+Removed lines: 0.266 % 
+Final shape: (4130, 12) 
+
+File: RDAC1509.dbf 
+Removed lines: 0.069 % 
+Final shape: (4362, 12) 
+
+File: RDAC1510.dbf 
+Removed lines: 0.332 % 
+Final shape: (4208, 12) 
+
+File: RDAC1511.dbf 
+Removed lines: 0.251 % 
+Final shape: (3969, 12) 
+
+File: RDAC1512.dbf 
+Removed lines: 0.124 % 
+Final shape: (4036, 12) 
+
+File: RDAC1601.dbf 
+Removed lines: 0.597 % 
+Final shape: (3499, 12) 
+
+File: RDAC1602.dbf 
+Removed lines: 0.284 % 
+Final shape: (4208, 12) 
+
+File: RDAC1603.dbf 
+Removed lines: 0.073 % 
+Final shape: (4104, 12) 
+
+File: RDAC1604.dbf 
+Removed lines: 0.100 % 
+Final shape: (3979, 12) 
+
+File: RDAC1605.dbf 
+Removed lines: 0.588 % 
+Final shape: (4057, 12) 
+
+File: RDAC1606.dbf 
+Removed lines: 0.114 % 
+Final shape: (4383, 12) 
+
+File: RDAC1607.dbf 
+Removed lines: 0.255 % 
+Final shape: (4301, 12) 
+
+File: RDAC1608.dbf 
+Removed lines: 0.416 % 
+Final shape: (4304, 12) 
+
+File: RDAC1609.dbf 
+Removed lines: 0.273 % 
+Final shape: (4012, 12) 
+
+File: RDAC1610.dbf 
+Removed lines: 0.167 % 
+Final shape: (4173, 12) 
+
+File: RDAC1611.dbf 
+Removed lines: 0.625 % 
+Final shape: (3658, 12) 
+
+File: RDAC1612.dbf 
+Removed lines: 0.054 % 
+Final shape: (3713, 12) 
+
+File: RDAC1701.dbf 
+Removed lines: 0.171 % 
+Final shape: (3506, 12) 
+
+File: RDAC1702.dbf 
+Removed lines: 0.632 % 
+Final shape: (3776, 12) 
+
+File: RDAC1703.dbf 
+Removed lines: 0.168 % 
+Final shape: (3567, 12) 
+
+File: RDAC1704.dbf 
+Removed lines: 0.292 % 
+Final shape: (3418, 12) 
+
+File: RDAC1705.dbf 
+Removed lines: 0.752 % 
+Final shape: (3564, 12) 
+
+File: RDAC1706.dbf 
+Removed lines: 0.667 % 
+Final shape: (2980, 12) 
+
+File: RDAC1707.dbf 
+Removed lines: 0.135 % 
+Final shape: (2949, 12) 
+
+File: RDAC1708.dbf 
+Removed lines: 0.748 % 
+Final shape: (3848, 12) 
+
+File: RDAC1709.dbf 
+Removed lines: 0.533 % 
+Final shape: (3918, 12) 
+
+File: RDAC1710.dbf 
+Removed lines: 0.108 % 
+Final shape: (4617, 12) 
+
+File: RDAC1711.dbf 
+Removed lines: 0.969 % 
+Final shape: (4396, 12) 
+
+File: RDAC1712.dbf 
+Removed lines: 0.688 % 
+Final shape: (3463, 12) 
+
+File: RDAC1801.dbf 
+Removed lines: 0.174 % 
+Final shape: (4600, 12) 
+
+File: RDAC1802.dbf 
+Removed lines: 0.891 % 
+Final shape: (3225, 12) 
+
+File: RDAC1803.dbf 
+Removed lines: 0.060 % 
+Final shape: (3339, 12) 
+
+File: RDAC1804.dbf 
+Removed lines: 0.353 % 
+Final shape: (4237, 12) 
+
+File: RDAC1805.dbf 
+Removed lines: 0.898 % 
+Final shape: (3309, 12) 
+
+File: RDAC1806.dbf 
+Removed lines: 0.402 % 
+Final shape: (3961, 12) 
+
+File: RDAC1807.dbf 
+Removed lines: 0.430 % 
+Final shape: (3941, 12) 
+
