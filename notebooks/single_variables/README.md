@@ -4,7 +4,7 @@
 
 Python notebooks intended to explore and analyze climate and vegetation variables one at a time.
 
-# #Better visualization
+##Better visualization
 
 - [ndvi_statistics](https://nbviewer.jupyter.org/github/SandroAlex/phd/blob/master/notebooks/single_variables/ndvi_statistics.ipynb?flush_cache=true): 
 
