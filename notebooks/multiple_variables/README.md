@@ -72,24 +72,24 @@ Exploring relations between climate and vegetation variables.
     - Without lag.
 
 
-- [relations6.ipynb](https://nbviewer.jupyter.org/github/SandroAlex/phd/blob/master/notebooks/multiple_variables/relations6.ipynb?flush_cache=true).
+- [relations6.ipynb](https://nbviewer.jupyter.org/github/SandroAlex/phd/blob/master/notebooks/multiple_variables/relations6.ipynb?flush_cache=true):
     - Variables are vegetation (`NDVI_mm`) and climate (`SWVL1_mm`, `STL1_mm`, `WB_mm`, `WD_mm`, `TP_mm`, `E_mm`, `RELHUM_mm`, `SSR_mm`, and `T2M_mm`).
     - Principal Component Analysis for all South America grid points.
     - K-Means for the first principal component.
 
 
-- [relations7.ipynb](https://nbviewer.jupyter.org/github/SandroAlex/phd/blob/master/notebooks/multiple_variables/relations7.ipynb?flush_cache=true).
+- [relations7.ipynb](https://nbviewer.jupyter.org/github/SandroAlex/phd/blob/master/notebooks/multiple_variables/relations7.ipynb?flush_cache=true):
     - Variables are just for climate (`SWVL1_mm`, `STL1_mm`, `WB_mm`, `WD_mm`, `TP_mm`, `E_mm`, `RELHUM_mm`, `SSR_mm`, and `T2M_mm`).
     - Principal Component Analysis for all South America grid points.
     - K-Means for the first principal component.
 
 
-- [surface_relative_humidity_mmeans.ipynb](https://nbviewer.jupyter.org/github/SandroAlex/phd/blob/master/notebooks/multiple_variables/surface_relative_humidity_mmeans.ipynb?flush_cache=true).
+- [surface_relative_humidity_mmeans.ipynb](https://nbviewer.jupyter.org/github/SandroAlex/phd/blob/master/notebooks/multiple_variables/surface_relative_humidity_mmeans.ipynb?flush_cache=true):
     - Notebook intended to calculate monthly means of relative humidity at surface based on ERA-INTERIM datasets of temperature and dew point temperature both at surface (2 m above the ground).
 
     - **References**:
         - [ERA datasets: near-surface humidity](https://confluence.ecmwf.int/display/CKB/ERA+datasets%3A+near-surface+humidity).
-        - [Calculate Temperature, Dewpoint, or Relative Humidity](http://andrew.rsmas.miami.edu/bmcnoldy/Humidity.html).
+        - [Calculate Temperature, Dewpoint, or Relative Humidity](http://andrew.rsmas.miami.edu/bmcnoldy/Humidity.html):
     - Based on Clausius-Clayperon equation:
         $$ 
         e_s(T) = 6.1094 \exp{\left( \frac{17.625 T}{T + 243.04} \right)}
@@ -101,21 +101,25 @@ Exploring relations between climate and vegetation variables.
         where $T_d$ is the dew point temperature.
 
 
-- [surface_relative_humidity.ipynb](https://nbviewer.jupyter.org/github/SandroAlex/phd/blob/master/notebooks/multiple_variables/surface_relative_humidity.ipynb?flush_cache=true).
+- [surface_relative_humidity.ipynb](https://nbviewer.jupyter.org/github/SandroAlex/phd/blob/master/notebooks/multiple_variables/surface_relative_humidity.ipynb?flush_cache=true):
     - Notebook intended to calculate relative humidity at surface based on ERA-INTERIM datasets of temperature and dew point temperature both at surface (2 m above the ground).
     - **References**:
-        - [ERA datasets: near-surface humidity](https://confluence.ecmwf.int/display/CKB/ERA+datasets%3A+near-surface+humidity).
+        - [ERA datasets: near-surface humidity](https://confluence.ecmwf.int/display/CKB/ERA+datasets%3A+near-surface+humidity):
         - [Calculate Temperature, Dewpoint, or Relative Humidity](http://andrew.rsmas.miami.edu/bmcnoldy/Humidity.html).
     - Based on Clausius-Clayperon equation:
+
         $$ 
         e_s(T) = 6.1094 \exp{\left( \frac{17.625 T}{T + 243.04} \right)}
         $$
+
         where $T$ is temperature in degree Celsius, you can calculate relative humidity $RH$ as the following:
+
         $$
         RH = \frac{e_s(T_d)}{e_s(T)} 100 \%
         $$
+
         where $T_d$ is the dew point temperature.
 
 
-- [water_budget.ipynb](https://nbviewer.jupyter.org/github/SandroAlex/phd/blob/master/notebooks/multiple_variables/water_budget.ipynb?flush_cache=true)
+- [water_budget.ipynb](https://nbviewer.jupyter.org/github/SandroAlex/phd/blob/master/notebooks/multiple_variables/water_budget.ipynb?flush_cache=true):
     - This notebook is intended for constructing water balance (monthly and daily) and cumulative water deficit (monthly) datasets.
