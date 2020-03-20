@@ -86,19 +86,10 @@ Exploring relations between climate and vegetation variables.
 
 - [surface_relative_humidity_mmeans.ipynb](https://nbviewer.jupyter.org/github/SandroAlex/phd/blob/master/notebooks/multiple_variables/surface_relative_humidity_mmeans.ipynb?flush_cache=true):
     - Notebook intended to calculate monthly means of relative humidity at surface based on ERA-INTERIM datasets of temperature and dew point temperature both at surface (2 m above the ground).
-
     - **References**:
         - [ERA datasets: near-surface humidity](https://confluence.ecmwf.int/display/CKB/ERA+datasets%3A+near-surface+humidity).
         - [Calculate Temperature, Dewpoint, or Relative Humidity](http://andrew.rsmas.miami.edu/bmcnoldy/Humidity.html):
-    - Based on Clausius-Clayperon equation:
-        $$ 
-        e_s(T) = 6.1094 \exp{\left( \frac{17.625 T}{T + 243.04} \right)}
-        $$
-        where $T$ is temperature in degree Celsius, you can calculate relative humidity $RH$ as the following:
-        $$
-        RH = \frac{e_s(T_d)}{e_s(T)} 100 \%
-        $$
-        where $T_d$ is the dew point temperature.
+    - Based on Clausius-Clayperon equation.
 
 
 - [surface_relative_humidity.ipynb](https://nbviewer.jupyter.org/github/SandroAlex/phd/blob/master/notebooks/multiple_variables/surface_relative_humidity.ipynb?flush_cache=true):
@@ -106,19 +97,7 @@ Exploring relations between climate and vegetation variables.
     - **References**:
         - [ERA datasets: near-surface humidity](https://confluence.ecmwf.int/display/CKB/ERA+datasets%3A+near-surface+humidity):
         - [Calculate Temperature, Dewpoint, or Relative Humidity](http://andrew.rsmas.miami.edu/bmcnoldy/Humidity.html).
-    - Based on Clausius-Clayperon equation:
-
-        $$ 
-        e_s(T) = 6.1094 \exp{\left( \frac{17.625 T}{T + 243.04} \right)}
-        $$
-
-        where $T$ is temperature in degree Celsius, you can calculate relative humidity $RH$ as the following:
-
-        $$
-        RH = \frac{e_s(T_d)}{e_s(T)} 100 \%
-        $$
-
-        where $T_d$ is the dew point temperature.
+    - Based on Clausius-Clayperon equation.
 
 
 - [water_budget.ipynb](https://nbviewer.jupyter.org/github/SandroAlex/phd/blob/master/notebooks/multiple_variables/water_budget.ipynb?flush_cache=true):
