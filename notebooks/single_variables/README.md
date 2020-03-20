@@ -26,7 +26,7 @@ Python notebooks intended to explore and analyze climate and vegetation variable
     - Maps for the whole globe and South America.
 
 
-- [land_cover.ipynb](https://nbviewer.jupyter.org/github/SandroAlex/phd/blob/master/notebooks/multiple_variables/land_cover.ipynb?flush_cache=true):
+- [land_cover.ipynb](https://nbviewer.jupyter.org/github/SandroAlex/phd/blob/master/notebooks/single_variables/land_cover.ipynb?flush_cache=true):
     - Websites: [ESA-CCI-landcover](https://www.esa-landcover-cci.org/), [Viewer](https://maps.elie.ucl.ac.be/CCI/viewer/), [Publications](https://www.esa-landcover-cci.org/?q=node/184), [Maps legend](https://maps.elie.ucl.ac.be/CCI/viewer/download/CCI-LC_Maps_Legend.pdf), and [Quick user guide](https://maps.elie.ucl.ac.be/CCI/viewer/download/CCI-LC_Maps_Legend.pdf).
     - This is a heavy data set. Just export preprocessed data and try to plot it later in the server!
 
