@@ -3,10 +3,10 @@
 # Example of usage:
 #
 # >>> to_folder="/media/alex/ALEXDATA/data_sets/GIMMS/"	
-# >>> bash ndvi.sh $to_folder
+# >>> bash ndvi_gimms_download.sh $to_folder
 
 # File containing all web links to data files.
-data_file="./ndvi_data_list.txt"
+data_file="./ndvi_gimms_data_list.txt"
 
 # Where data will be put.
 output_folder=$1
